@@ -10,7 +10,7 @@
        * GitHub username 1: wtsai9      name 1: Wei Lin Tsai
        * GitHub username 2: sofiakhn      name 2: Sofia Khan
        * GitHub username 3: scgerich      name 3: Sally Gerich
-       * GitHub username 4:       name 4:
+       * GitHub username 4: sohdas        name 4: Soham Dasgupta
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 10/20/2018
    * How long did it take your team to complete this exercise? 45 minutes
